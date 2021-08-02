@@ -68,3 +68,8 @@
     color: #ffffff;
   
   }
+  @media(max-width:800px){
+    .Quiz h1{
+      font-size: 21px;
+    }
+  }
